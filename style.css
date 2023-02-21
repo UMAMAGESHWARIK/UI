@@ -1,0 +1,61 @@
+.mobile{
+    text-align: center;
+    background-color: gray;
+    font-size: 20px;
+    color: white;
+    background-size: 0;
+    height: 107px;
+    width: 1225px;
+
+}
+.divine {
+    color:white;
+    margin-left: 1cm;
+    padding: 80px;
+    margin-top: -10cm;
+}
+.btn{
+    margin-left: 5px;
+    border-radius: 5px solid white;
+    background: none;
+    color:white;
+    border-color: white;
+}
+.pro h1{
+    color:white;
+    text-align: center;
+    margin-top: -230px;
+    font-size: small;
+}
+
+.welcome{
+    text-align: center;
+    margin-left: 450px;
+    font-size: small;
+    color: burlywood;
+
+}
+.mount{
+    margin-left: 650px;
+}
+.bike{
+    margin-left: 650px;
+    margin-top: 11px;
+}
+.html{
+    margin-left: 870px;
+    margin-top: -170px;
+}
+.eagle{
+    margin-left: 870px;
+    margin-top: 4px;
+}
+.OUR h1{
+    text-align: center;
+    font-size: medium;
+}
+.OUR p{
+    text-align: center;
+    font-size:small;
+}
+
